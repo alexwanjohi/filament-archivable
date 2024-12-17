@@ -2,6 +2,20 @@
 
 All notable changes to `filament-archivable` will be documented in this file.
 
+## v1.2.0 - 2024-12-17
+
+### What's Changed
+
+* Add german translations by @dissto in https://github.com/okeonline/filament-archivable/pull/4
+* FR translations added by @olivsinz in https://github.com/okeonline/filament-archivable/pull/6
+
+### New Contributors
+
+* @dissto made their first contribution in https://github.com/okeonline/filament-archivable/pull/4
+* @olivsinz made their first contribution in https://github.com/okeonline/filament-archivable/pull/6
+
+**Full Changelog**: https://github.com/okeonline/filament-archivable/compare/v1.1.0...v1.2.0
+
 ## v1.1.0 - 2024-08-09
 
 ### What's Changed

@@ -201,6 +201,7 @@ public static function table(Table $table): Table
 
 - en - English
 - fr - French
+- de - German
 - nl - Dutch
 
 You can publish and change the language files by running:
